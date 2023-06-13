@@ -13,9 +13,9 @@
 
 <body>
     <div id="conteudo">
-        <h2>Aceita namorar comigo?</h2>
-        <button class="btn" onclick="sim()">SIM</button>
-        <button class="btn" onclick="desvia(this)" onmouseover="desvia(this)">NÃO</button>
+        <h2>fodase</h2>
+        <button class="btn" onclick="fodase()">SIM</button>
+        <button class="btn" onclick="desvia(this)" onmouseover="desvia(this)">desfodese</button>
     </div>
 </body>
 <style>
